@@ -1,0 +1,1 @@
+import{Y as e}from"./chunk-3MNDLVIB.js";var o=(()=>{let t=class t{transform(r){return`S/ ${r.toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:2})}`}};t.\u0275fac=function(n){return new(n||t)},t.\u0275pipe=e({name:"soles",type:t,pure:!0,standalone:!0});let i=t;return i})();export{o as a};
